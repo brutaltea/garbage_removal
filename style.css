@@ -1,0 +1,156 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: 'Courier New';
+}
+
+
+.container {
+	width: 820px;
+	background: url(images/background.png);
+	background-repeat: no-repeat ;
+	background-position: top left;
+}
+.navigation {
+	background-color:#bbdfb7;
+	opacity: 1;
+	margin-bottom: 20px;
+}
+.navigation ul li{
+	 
+	 
+}
+.navigation ul li  a {
+	float: right;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	color: #668815;
+	font-size: 17.44px;
+	font-weight: bold;
+	height: 30px;
+	font-weight: bold;
+}
+.navigation ul li  a:hover {
+	background-color: #ffc100;
+}
+.active {
+	background-color: #ffc100;
+}
+.navigation ul {
+	list-style-type: none;
+}
+#removal {
+	text-transform: uppercase;
+	float: left;
+	font-size: 31.4px;
+	color: #668815;
+	font-weight: bold;
+	padding-left: 52px;
+}
+.phonenumber {
+	padding-right: 50px;
+	float: right;
+	font-size: 27.91px;
+	color: #ffc100;
+	font-weight: bold;
+	clear: right;
+}
+#discla {
+	float: left;
+	text-align: center;
+	font-size: 20.93px;
+	color: #668815;
+	font-weight: bold;
+	padding-top: 134px;
+	padding-right: 120px;
+	padding-left: 140px;
+	margin-bottom: 25px;
+}
+.item {
+	padding-top: 10px;
+}
+.item_header {
+	font-family: 'Corbel';
+	font-size: 20.93px;
+}
+#first_item {
+	padding-left: 73px;
+}
+#second_item {
+	padding-left: 30px;
+}
+#third_item {
+	padding-left: 65px;
+}
+.content {
+	height: 528px;
+}
+#descr {
+	float: left;
+	font-size: 20.93px;
+	text-align: center;
+	font-weight: bold;
+	padding-left: 200px;
+	padding-right: 200px;
+	text-align: center;
+	line-height: .8;
+	color: #668815;
+}
+#descr_text {
+	display: block;
+	text-align: center;
+	font-family: 'Corbel';
+	font-size: 20px;
+	padding-left: 70px;
+	padding-right: 70px;
+	line-height: 1.1;
+	padding-bottom: 10px;
+	margin-bottom: 30px;
+}
+.footer {
+	margin-top: 10px solid #ffc100;
+	height: 200px;
+
+}
+#contacts {
+	
+	font-family: 'Courier New';
+	font-size: 22px;
+	font-weight: bold;
+	color: #668815;
+	padding-left: 355px;
+	float: left;
+
+
+}
+.top	{
+	float: left;
+	margin-bottom: 5px;
+	font-size: 22px;
+	padding-right: 00px;
+	font-weight: bold;
+	color: #668815;
+	padding-left: 50px;
+	
+
+		}
+	.bot {
+	float: left;
+	margin-bottom: 5px;
+	font-size: 22px;
+	padding-right: 300px;
+	font-weight: bold;
+	color: #668815;
+	padding-left: 50px;
+
+	}
+	#cleaner {
+		padding-top: 50px;
+		float: right;
+		padding-right: 60px;
+	}
